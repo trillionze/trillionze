@@ -6,21 +6,6 @@
 
 I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on [GitHub](https://github.com/trillionze).
 
-<!--
-**trillionze/trillionze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### 🔨 Coding Activities
 
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/trillionze?style=flat-square)](https://github.com/trillionze)
@@ -31,17 +16,29 @@ Here are some ideas to get you started:
 - 💼 Love open-source
 - 💬 Ask me about anything, [email me](trillionze@163.com)
 
+#### 📰 Recent Posts
+
+<!-- blog starts -->
+* <a href=https://www.trillionze.com/en/about/ target='_blank'>About</a>
+* <a href=https://www.trillionze.com/en/2024/06/13/test3/ target='_blank'>Test3</a>
+* <a href=https://www.trillionze.com/en/2024/06/12/test1/ target='_blank'>Test1</a>
+* <a href=https://www.trillionze.com/en/2024/06/12/test/ target='_blank'>Test</a>
+* <a href=https://www.trillionze.com/en/2018/03/06/den-theme-preview/ target='_blank'>Den Theme Preview</a>
+<!-- blog ends -->
+
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
 * <a href='https://book.douban.com/subject/33445309/' target='_blank'>想读阿特拉斯耸耸肩</a> - 2024-06-17
 * <a href='http://movie.douban.com/subject/26656728/' target='_blank'>想看泳者之心</a> - 2024-06-17
 * <a href='https://book.douban.com/subject/36687146/' target='_blank'>最近在读时间贫困</a> - 2024-06-17
+* <a href='http://movie.douban.com/subject/21941283/' target='_blank'>看过天注定</a> - 2024-06-17
 * <a href='http://movie.douban.com/subject/36149032/' target='_blank'>看过我们一起摇太阳</a> - 2024-06-15
-* <a href='http://movie.douban.com/subject/35275350/' target='_blank'>看过初恋</a> - 2024-06-06
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
+
+<!-- code_time starts -->
 
 ```text
 YAML       50 mins        ██████████████████▊░░  89.8%
@@ -51,7 +48,8 @@ Markdown   1 min          ▍░░░░░░░░░░░░░░░░░
 TOML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
-<!-- stats_table starts -->
+<!-- code_time ends -->
+
 #### :octocat: Github Stats
 
 <table>
@@ -64,5 +62,4 @@ TOML       0 secs         ░░░░░░░░░░░░░░░░░░
     </td>
   </tr>
 </table>
-<!-- stats_table ends -->
 
