@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![trillionze's GitHub stats](https://github-readme-stats.vercel.app/api?username=trillionze&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trillionze&layout=compact)]
+<!-- stats_table starts -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=trillionze&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillionze&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+<!-- stats_table ends -->
+
