@@ -41,10 +41,10 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-Java       6 hrs 55 mins  █████████▊░░░░░░░░░░░  46.6%
-Go         3 hrs 9 mins   ████▍░░░░░░░░░░░░░░░░  21.3%
-Markdown   1 hr 54 mins   ██▋░░░░░░░░░░░░░░░░░░  12.9%
-Python     1 hr 41 mins   ██▍░░░░░░░░░░░░░░░░░░  11.4%
+Java       7 hrs 25 mins  ██████████▍░░░░░░░░░░  49.8%
+Go         3 hrs 10 mins  ████▍░░░░░░░░░░░░░░░░  21.3%
+Python     1 hr 38 mins   ██▎░░░░░░░░░░░░░░░░░░  11.0%
+Markdown   1 hr 38 mins   ██▎░░░░░░░░░░░░░░░░░░  11.0%
 TOML       35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
