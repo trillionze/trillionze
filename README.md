@@ -41,8 +41,10 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-Java       9 hrs 29 mins  ████████████████████▋  98.3%
-Go         9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Java       9 hrs          ███████████████████▎░  92.1%
+Go         44 mins        █▌░░░░░░░░░░░░░░░░░░░   7.6%
+Bash       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->
