@@ -29,11 +29,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/36181105/' target='_blank'>在看无罪的罪人</a> - 2024-06-24
-* <a href='https://book.douban.com/subject/26369699/' target='_blank'>想读被讨厌的勇气</a> - 2024-06-24
-* <a href='http://movie.douban.com/subject/36089988/' target='_blank'>想看云边有个小卖部</a> - 2024-06-24
-* <a href='http://movie.douban.com/subject/24284175/' target='_blank'>看过九龙城寨之围城</a> - 2024-06-24
-* <a href='http://movie.douban.com/subject/35929861/' target='_blank'>想看甜蜜家园3</a> - 2024-06-24
+* <a href='https://book.douban.com/subject/3066477/' target='_blank'>读过三体Ⅱ</a> - 2024-07-11
+* <a href='https://book.douban.com/subject/5363767/' target='_blank'>读过三体Ⅲ</a> - 2024-07-11
+* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2024-07-11
+* <a href='https://book.douban.com/subject/5910656/' target='_blank'>读过我与地坛</a> - 2024-07-11
+* <a href='http://movie.douban.com/subject/26235839/' target='_blank'>看过内在美</a> - 2024-07-11
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -41,7 +41,9 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-Java       5 hrs 30 mins  █████████████████████ 100.0%
+Java       4 hrs 56 mins  ███████████████████▋░  93.7%
+C          13 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+C++        6 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
 <!-- code_time ends -->
