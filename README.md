@@ -29,11 +29,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35956190/' target='_blank'>看过走走停停</a> - 2024-07-13
+* <a href='http://movie.douban.com/subject/34453198/' target='_blank'>看过梦境</a> - 2024-07-13
 * <a href='https://book.douban.com/subject/3066477/' target='_blank'>读过三体Ⅱ</a> - 2024-07-11
 * <a href='https://book.douban.com/subject/5363767/' target='_blank'>读过三体Ⅲ</a> - 2024-07-11
 * <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2024-07-11
-* <a href='https://book.douban.com/subject/5910656/' target='_blank'>读过我与地坛</a> - 2024-07-11
-* <a href='http://movie.douban.com/subject/26235839/' target='_blank'>看过内在美</a> - 2024-07-11
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -41,9 +41,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-Java       4 hrs 56 mins  ███████████████████▋░  93.7%
-C          13 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-C++        6 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Java       4 hrs 39 mins  ██████████████▊░░░░░░  70.5%
+YAML       1 hr 2 mins    ███▎░░░░░░░░░░░░░░░░░  15.7%
+C          27 mins        █▍░░░░░░░░░░░░░░░░░░░   6.9%
+C++        15 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+TOML       11 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time ends -->
