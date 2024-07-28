@@ -19,17 +19,17 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-* <a href=https://www.trillionze.com/en/about/ target='_blank'>About</a>
-* <a href=https://www.trillionze.com/en/2018/03/06/den-theme-preview/ target='_blank'>Den Theme Preview</a>
-* <a href=https://www.trillionze.com/en/2018/03/05/header-image/ target='_blank'>Header Image</a>
-* <a href=https://www.trillionze.com/en/2018/03/04/note-2/ target='_blank'>Note 2</a>
-* <a href=https://www.trillionze.com/en/2018/03/04/shortcodes-preview/ target='_blank'>Shortcodes Preview</a>
+
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/35594496/' target='_blank'>最近在读福格行为模型</a> - 2024-07-28
+* <a href='https://book.douban.com/subject/26980487/' target='_blank'>最近在读悉达多</a> - 2024-07-28
+* <a href='http://movie.douban.com/subject/36181105/' target='_blank'>看过无罪的罪人 第一季</a> - 2024-07-25
+* <a href='http://movie.douban.com/subject/35359715/' target='_blank'>看过朝云暮雨</a> - 2024-07-24
+* <a href='http://movie.douban.com/subject/36748074/' target='_blank'>看过余生一年的我，遇见了的余生半年的你的故事</a> - 2024-07-24
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -37,11 +37,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-TOML       31 mins        ███████▌░░░░░░░░░░░░░  36.0%
-HTML       27 mins        ██████▋░░░░░░░░░░░░░░  31.6%
-Bash       15 mins        ███▊░░░░░░░░░░░░░░░░░  17.9%
-Markdown   8 mins         ██░░░░░░░░░░░░░░░░░░░   9.6%
-YAML       4 mins         █░░░░░░░░░░░░░░░░░░░░   4.9%
+TOML       31 mins        ███████▎░░░░░░░░░░░░░  34.7%
+HTML       28 mins        ██████▍░░░░░░░░░░░░░░  30.5%
+Bash       15 mins        ███▌░░░░░░░░░░░░░░░░░  17.1%
+Markdown   8 mins         █▉░░░░░░░░░░░░░░░░░░░   9.1%
+YAML       4 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 ```
 
 <!-- code_time ends -->
