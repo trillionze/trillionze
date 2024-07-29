@@ -19,7 +19,9 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-
+* <a href=https://www.trillionze.com/en/about/ target='_blank'>About</a>
+* <a href=https://www.trillionze.com/en/2018/03/05/header-image/ target='_blank'>Header Image</a>
+* <a href=https://www.trillionze.com/en/2018/03/03/note-1/ target='_blank'>Note 1</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -37,11 +39,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-TOML       31 mins        ███████▎░░░░░░░░░░░░░  34.7%
-HTML       28 mins        ██████▍░░░░░░░░░░░░░░  30.5%
-Bash       15 mins        ███▌░░░░░░░░░░░░░░░░░  17.1%
-Markdown   8 mins         █▉░░░░░░░░░░░░░░░░░░░   9.1%
-YAML       4 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+TOML       51 mins        ███████▎░░░░░░░░░░░░░  34.6%
+HTML       48 mins        ██████▊░░░░░░░░░░░░░░  32.4%
+Bash       21 mins        ███░░░░░░░░░░░░░░░░░░  14.7%
+Markdown   18 mins        ██▋░░░░░░░░░░░░░░░░░░  12.7%
+YAML       4 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time ends -->
