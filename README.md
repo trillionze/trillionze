@@ -27,7 +27,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-
+* <a href='http://movie.douban.com/subject/3001114/' target='_blank'>看过沙丘</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>看过沙丘2</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/26957900/' target='_blank'>看过死侍与金刚狼</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/10594965/' target='_blank'>看过实习生</a> - 2024-07-29
+* <a href='https://book.douban.com/subject/35594496/' target='_blank'>最近在读福格行为模型</a> - 2024-07-28
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -35,11 +39,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-Bash       1 hr 41 mins   ███████▍░░░░░░░░░░░░░  35.3%
-TOML       1 hr 32 mins   ██████▊░░░░░░░░░░░░░░  32.4%
-HTML       1 hr           ████▍░░░░░░░░░░░░░░░░  21.2%
-Markdown   23 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-YAML       4 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Bash       1 hr 25 mins   ███████▌░░░░░░░░░░░░░  35.8%
+TOML       1 hr 8 mins    ██████░░░░░░░░░░░░░░░  28.6%
+HTML       58 mins        █████▏░░░░░░░░░░░░░░░  24.5%
+Markdown   21 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
+C++        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time ends -->
