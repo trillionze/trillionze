@@ -39,11 +39,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 <!-- code_time starts -->
 
 ```text
-Bash       1 hr 25 mins   ███████▋░░░░░░░░░░░░░  36.9%
-TOML       1 hr 1 min     █████▌░░░░░░░░░░░░░░░  26.5%
-HTML       58 mins        █████▎░░░░░░░░░░░░░░░  25.2%
-Markdown   21 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
-C++        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Bash       1 hr 25 mins   █████████░░░░░░░░░░░░  42.9%
+TOML       1 hr 1 min     ██████▍░░░░░░░░░░░░░░  30.8%
+HTML       33 mins        ███▌░░░░░░░░░░░░░░░░░  16.7%
+Markdown   15 mins        █▌░░░░░░░░░░░░░░░░░░░   7.5%
+C++        2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time ends -->
