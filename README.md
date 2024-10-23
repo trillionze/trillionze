@@ -27,11 +27,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35882838/' target='_blank'>看过某种物质</a> - 2024-10-23
 * <a href='http://movie.douban.com/subject/36774001/' target='_blank'>看过逆行人生</a> - 2024-10-17
 * <a href='http://movie.douban.com/subject/1296736/' target='_blank'>看过钢琴家</a> - 2024-10-14
 * <a href='http://movie.douban.com/subject/35390098/' target='_blank'>看过造梦之家</a> - 2024-10-14
 * <a href='http://movie.douban.com/subject/35579652/' target='_blank'>看过养蜂人</a> - 2024-10-14
-* <a href='http://movie.douban.com/subject/36406672/' target='_blank'>看过饥饿站台2</a> - 2024-10-05
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
