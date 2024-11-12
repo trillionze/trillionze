@@ -27,11 +27,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/30216729/' target='_blank'>看过王牌保镖2</a> - 2024-11-11
-* <a href='http://movie.douban.com/subject/30424374/' target='_blank'>看过爱，死亡和机器人 第一季</a> - 2024-11-11
-* <a href='http://movie.douban.com/subject/35436582/' target='_blank'>看过爱，死亡和机器人 第三季</a> - 2024-11-11
-* <a href='http://movie.douban.com/subject/34418203/' target='_blank'>看过爱，死亡和机器人 第二季</a> - 2024-11-11
-* <a href='http://movie.douban.com/subject/3114109/' target='_blank'>看过暴力街区13：终极</a> - 2024-11-11
+* <a href='http://movie.douban.com/subject/26905469/' target='_blank'>看过金蝉脱壳2：冥府</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/36174827/' target='_blank'>看过塔尔萨之王 第二季</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/35814636/' target='_blank'>看过塔尔萨之王 第一季</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/35669844/' target='_blank'>看过英雄联盟：双城之战 第二季</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/34867871/' target='_blank'>看过英雄联盟：双城之战 第一季</a> - 2024-11-12
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
