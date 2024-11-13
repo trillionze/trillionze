@@ -27,11 +27,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/26905469/' target='_blank'>看过金蝉脱壳2：冥府</a> - 2024-11-12
-* <a href='http://movie.douban.com/subject/36174827/' target='_blank'>看过塔尔萨之王 第二季</a> - 2024-11-12
-* <a href='http://movie.douban.com/subject/35814636/' target='_blank'>看过塔尔萨之王 第一季</a> - 2024-11-12
-* <a href='http://movie.douban.com/subject/35669844/' target='_blank'>看过英雄联盟：双城之战 第二季</a> - 2024-11-12
-* <a href='http://movie.douban.com/subject/34867871/' target='_blank'>看过英雄联盟：双城之战 第一季</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/10546436/' target='_blank'>看过第一滴血5：最后的血</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/1440855/' target='_blank'>看过第一滴血4</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/1300399/' target='_blank'>看过第一滴血3</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/1300361/' target='_blank'>看过第一滴血2</a> - 2024-11-12
+* <a href='http://movie.douban.com/subject/1294323/' target='_blank'>看过第一滴血</a> - 2024-11-12
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
