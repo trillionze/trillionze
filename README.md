@@ -27,7 +27,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-
+* <a href='http://movie.douban.com/subject/36407380/' target='_blank'>想看鱿鱼游戏 第三季</a> - 2025-01-02
+* <a href='http://movie.douban.com/subject/35930261/' target='_blank'>看过鱿鱼游戏：真人挑战赛 第一季</a> - 2025-01-02
+* <a href='http://movie.douban.com/subject/35656342/' target='_blank'>看过鱿鱼游戏 第二季</a> - 2025-01-02
+* <a href='http://movie.douban.com/subject/34807062/' target='_blank'>想看疾速追杀外传：芭蕾杀姬</a> - 2025-01-01
+* <a href='http://movie.douban.com/subject/1309199/' target='_blank'>看过史密斯夫妇</a> - 2024-12-31
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
