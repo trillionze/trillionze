@@ -27,11 +27,7 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/30433456/' target='_blank'>看过碟中谍8：最终清算</a> - 2025-08-22
-* <a href='https://movie.douban.com/subject/27163287/' target='_blank'>看过贴身保镖 第一季</a> - 2025-07-28
-* <a href='https://movie.douban.com/subject/35689244/' target='_blank'>看过F1：狂飙飞车</a> - 2025-07-26
-* <a href='https://movie.douban.com/subject/1307853/' target='_blank'>看过8英里</a> - 2025-07-25
-* <a href='https://movie.douban.com/subject/36742579/' target='_blank'>看过罪人</a> - 2025-07-25
+
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
