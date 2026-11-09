@@ -27,11 +27,11 @@ I'm trillionze, graduate student in ECE(Electrical and Computer Engineering) @ U
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/30241298/' target='_blank'>看过南山的部长们</a> - 2026-11-08
-* <a href='https://movie.douban.com/subject/37210712/' target='_blank'>看过末路兼职</a> - 2026-11-03
-* <a href='https://movie.douban.com/subject/34454769/' target='_blank'>看过亲爱的杀手</a> - 2026-10-29
-* <a href='https://movie.douban.com/subject/3217165/' target='_blank'>看过城中大盗</a> - 2026-10-22
-* <a href='https://movie.douban.com/subject/36011202/' target='_blank'>想看复仇者联盟5</a> - 2026-10-12
+* <a href='https://movie.douban.com/subject/37235560/' target='_blank'>看过Doctor X：白色黑手党时代</a> - 2026-11-09
+* <a href='https://movie.douban.com/subject/5980670/' target='_blank'>看过疑犯追踪  第一季</a> - 2026-11-09
+* <a href='https://movie.douban.com/subject/22523356/' target='_blank'>看过纸牌屋 第二季</a> - 2026-11-09
+* <a href='https://movie.douban.com/subject/6037429/' target='_blank'>看过纸牌屋 第一季</a> - 2026-11-09
+* <a href='https://movie.douban.com/subject/3143676/' target='_blank'>看过林中小屋</a> - 2026-11-09
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
